@@ -1,0 +1,20 @@
+{
+  "cluster": "minikube",
+  "results": [
+    {
+      "control": "Networking",
+      "score": 75,
+      "status": "Warning"
+    },
+    {
+      "control": "RBAC",
+      "score": 50,
+      "status": "Fail"
+    },
+    {
+      "control": "Secrets",
+      "score": 90,
+      "status": "Pass"
+    }
+  ]
+}

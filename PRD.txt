@@ -1,0 +1,26 @@
+
+Product Requirements Document (PRD)
+-----------------------------------
+
+Product Name: Container Vulnerability Dashboard (CVD)
+
+Overview:
+A tool to scan container images for vulnerabilities and show them in a web-based dashboard.
+
+Key Features:
+- Image listing with vulnerabilities count
+- Filter by severity
+- View detailed CVEs per image
+- Fix suggestions
+- Export reports
+
+User Stories:
+1. View all images with vulnerability info
+2. Filter by severity levels
+3. Drill down to CVE details
+4. Mark as resolved/ignored
+5. Export to CSV/PDF
+
+Success Metrics:
+- Time to detect and resolve critical issues
+- % of resolved CVEs within SLA
